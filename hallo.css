@@ -1,4 +1,13 @@
-
+body{
+    background:#173242;
+    min-height:100vh;
+    overflow:hidden;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 :root{
     --font-1: 'Engagement', cursive;
     --font-2: 'Oswald', sans-serif;
